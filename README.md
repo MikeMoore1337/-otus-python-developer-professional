@@ -1,1 +1,1 @@
-# -otus-python-developer-professional
+# Домашние задания по курсу OTUS Python Developer. Professional
